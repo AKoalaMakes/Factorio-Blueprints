@@ -1,0 +1,34 @@
+Cheat sheet reference for what tech unlocks which pack in the 30 science pack mod version 0.0.16 as some can be very difficult to locate and have misleading names (looking at you #9, #18 and #21).
+
+Note vanilla packs are unlocked normally and are unchanged.
+
+Science 01 - (Starts Unlocked)
+Science 02 - Optics
+Science 03 - Turrets
+Science 04 - Electronics
+Science 05 - Automation 2
+Science 06 - Steel
+Science 07 - Circuit Network
+Science 08 - Oil Processing
+Science 09 - Accumulators
+Science 10 - Sulfur Processing
+Science 11 - Rail Signals
+Science 12 - Construction Robots
+Science 13 - Flamethrower
+Science 14 - Tanks
+Science 15 - Laser Turrets
+Science 16 - Combat Robotics
+Science 17 - Electric Energy Distribution 2
+Science 18 - Productivity 2
+Science 19 - Nuclear Power
+Science 20 - Automation 3
+Science 21 - Energy Shield MK2
+Science 22 - Logistics 3
+Science 23 - Effect Transmission
+Science 24 - Logistic System
+Science 25 - Logistic System
+Science 26 - Logistic System
+Science 27 - Logistic System
+Science 28 - Artillery
+Science 29 - Atomic Bomb
+Science 30 - Rocket Silo
